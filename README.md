@@ -14,7 +14,7 @@ USO
 
 2. Definir la etiqueta o etiquetas canvas dentro del body y darle un nombre al atributo id:
 
-`<canvas id="grafo" width="600" height="600"><canvas>`
+`<canvas id="grafo" width="600" height="600"></canvas>`
 
 3. Invocar la función:
 <pre>
