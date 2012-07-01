@@ -17,9 +17,8 @@ USO
 `<canvas id="grafo" width="600" height="600"><canvas>`
 
 3. Invocar la función:
-
-<code>
-	<script type="text/javascript">
+<pre>
+	&lt;script type="text/javascript"&gt;
 		var votaciones = [
 			["A", 0, 20, 26, 30, 22],
 			["B", 25, 0, 16, 33, 18],
@@ -29,8 +28,8 @@ USO
 			];
 	
 		var canvas = grafo_condorcet ('grafo', votaciones);
-	</script>
-</code>
+	&lt;/script&gt;
+</pre>
 
 LICENCIA
 --------
