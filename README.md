@@ -9,10 +9,15 @@ USO
 ---
 
 1. Incluir grafocondorcet.js en el head de tu página:
+
 `<script src="grafocondorcet.js" type="text/javascript"></script>`
+
 2. Definir la etiqueta o etiquetas canvas dentro del body y darle un nombre al atributo id:
+
 `<canvas id="grafo" width="600" height="600"><canvas>`
+
 3. Invocar la función:
+
 <code>
 	<script type="text/javascript">
 		var votaciones = [
