@@ -5,17 +5,17 @@ La función grafo_condorcet es una utilidad escrita en javascript que dibuja el 
 
 Puedes encontrar una explicación completa del método en http://en.wikipedia.org/wiki/Schulze_method
 
+Si quieres testear su funcionamiento, visita: http://joker-x.github.com/canvas-grafocondorcet/
+
 USO
 ---
 
 1. Incluir grafocondorcet.js en el head de tu página:
 
-`<script src="grafocondorcet.js" type="text/javascript"></script>`
-
+   `<script src="grafocondorcet.js" type="text/javascript"></script>`
 2. Definir la etiqueta o etiquetas canvas dentro del body y darle un nombre al atributo id:
 
-`<canvas id="grafo" width="600" height="600"></canvas>`
-
+   `<canvas id="grafo" width="600" height="600"></canvas>`
 3. Invocar la función:
 <pre>
 	&lt;script type="text/javascript"&gt;
