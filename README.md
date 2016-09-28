@@ -1,7 +1,7 @@
 canvas-grafocondorcet
 =====================
 
-La función grafo_condorcet es una utilidad escrita en javascript que dibuja el grafo dirigido asociado a la matriz de pares del método de votación preferencial Condorcet-Schulze en un canvas. No depende de ningún framework y funciona en cualquier navegador que soporte HTML5
+La función **grafo_condorcet** es una utilidad escrita en javascript que dibuja el grafo dirigido asociado a la matriz de pares del método de votación preferencial Condorcet-Schulze en un canvas. No depende de ningún framework y funciona en cualquier navegador que soporte HTML5
 
 Puedes encontrar una explicación completa del método en http://en.wikipedia.org/wiki/Schulze_method
 
